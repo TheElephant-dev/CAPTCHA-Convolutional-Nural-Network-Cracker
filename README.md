@@ -107,13 +107,26 @@ Example images:
 ## use command `tensorboard --logdir="{LOGS FOLDER HERE}"` to view your results.
 note: you can view the results while the model is training.
 
-
+# Epoch Accuracy
 <p align="center">
    <img src="readmeImages\epoch_accuracy.png">
+</p>
+# Epoch Loss
+<p align="center">
    <img src="readmeImages\epoch_loss.png">
+</p>
+# Evaluation Accuracy Vs Iterations
+<p align="center">
    <img src="readmeImages\evaluation_accuracy_vs_iterations.png">
+</p>
+# Evaluation Loss Vs Iterations
+<p align="center">
    <img src="readmeImages\evaluation_loss_vs_iterations.png">
 </p>
+   
+   
+   
+
 
 
 
