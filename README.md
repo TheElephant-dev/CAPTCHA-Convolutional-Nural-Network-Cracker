@@ -109,7 +109,10 @@ note: you can view the results while the model is training.
 
 
 <p align="center">
-   <img src="readmeImages\ImageIdentity\0.png">
+   <img src="readmeImages\epoch_accuracy.png">
+   <img src="readmeImages\epoch_loss.png">
+   <img src="readmeImages\evaluation_accuracy_vs_iterations.png">
+   <img src="readmeImages\evaluation_loss_vs_iterations.png">
 </p>
 
 
